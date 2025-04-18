@@ -5,7 +5,7 @@ Communication visuelle pour une entreprise leader européenne de vente assistée
 ## Contexte
 Passat SA (anciennement Passat Groupe) est une société spécialisée dans la vente de produits domestiques et de publicités vidéo sur lieux de vente.
 
-J'y ai travaillé en qualité de graphiste webdesigner, au sein du service marketing et communication, en collaboration avec des chefs de produits, responsbales marketing, intégrateurs et développeurs web.
+J'y ai travaillé en qualité de graphiste webdesigner, au sein du service marketing et communication, en collaboration avec des chefs de produits, responsables marketing, intégrateurs et développeurs web.
 
 J'ai notamment créé et réalisé des chartes graphiques, packagings, logos, PLV, panneaux publicitaires, catalogues... Ainsi que les interfaces des sites web de l'entreprise, de la boutique en ligne et des marques associées, des newsletters, dans le respect dès règles d'UX-UI design et de responsive.
 
