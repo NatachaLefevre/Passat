@@ -13,7 +13,7 @@ J'ai notamment créé et réalisé des chartes graphiques, packagings, logos, PL
 
 ### Verrin'Ice
 
-Packaging de produit et création du site web lié au produit.
+Packaging de produit et création de site web dédié, avec des recettes en ligne afin d'accompagner le lancement d'un reconditionnement de produit.
 
 ![Passat-Verrin'Ice_presentation](https://github.com/user-attachments/assets/f5d229ce-0b27-487b-a7db-4a6fcf2ca9d2)
 
@@ -22,7 +22,7 @@ Packaging de produit et création du site web lié au produit.
 
 ### Magic Freeze
 
-Site web dédié au produit
+Site web dédié afin de faciliter le lancement d'un nouveau produit.
 
 ![TPM_MagicFreeze_presentation](https://github.com/user-attachments/assets/cf206078-aed0-4f08-b0dd-7d66698d28db)
 
@@ -31,7 +31,7 @@ Site web dédié au produit
 
 Newsletters et habillage de la boutique en ligne, en fonction des saisons et des événements du calendrier.
 
-En collaboration avec les intégrateurs et développeurs du site, j'ai 
+En collaboration avec les intégrateurs et développeurs du site, j'ai proposé des designs percutants, dans le respect des règles d'UX et UI design.
 
 ![TasPasMieux_Noel](https://github.com/user-attachments/assets/0fb646d8-b760-47ca-970e-8f6d45ee3c10)
 
