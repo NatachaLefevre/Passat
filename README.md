@@ -29,7 +29,9 @@ Site web dédié au produit
 
 ### Boutique en ligne
 
-Newsletters et habillage de site en fonction des saisons et des événements du calendrier.
+Newsletters et habillage de la boutique en ligne, en fonction des saisons et des événements du calendrier.
+
+En collaboration avec les intégrateurs et développeurs du site, j'ai 
 
 ![TasPasMieux_Noel](https://github.com/user-attachments/assets/0fb646d8-b760-47ca-970e-8f6d45ee3c10)
 
@@ -38,7 +40,7 @@ Newsletters et habillage de site en fonction des saisons et des événements du 
 
 ### Crêpière Durandal
 
-Packaging de produit
+Packaging de produit, mêlant nouveauté dans le design et respect de la charte graphique habituelle de la marque.
 
 ![Passat_crepiere03](https://github.com/user-attachments/assets/d1c9536a-0a60-465a-84de-784a170ee225)
 
