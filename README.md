@@ -11,6 +11,8 @@ J'ai notamment créé et réalisé des chartes graphiques, packagings, logos, PL
 
 ## Exemples de projets et produits sur lesquels j'ai travaillé.
 
+### Verrin'Ice
+
 ![Passat-Verrin'Ice_presentation](https://github.com/user-attachments/assets/f5d229ce-0b27-487b-a7db-4a6fcf2ca9d2)
 
 ![Passat-VerrinIce_packaging](https://github.com/user-attachments/assets/e26a90a5-98fb-4d90-88b1-c056a8ace0b0)
