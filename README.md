@@ -19,11 +19,13 @@ Packaging de produit et création du site web lié au produit.
 
 ![Passat-VerrinIce_packaging](https://github.com/user-attachments/assets/e26a90a5-98fb-4d90-88b1-c056a8ace0b0)
 
+
 ### Magic Freeze
 
 Site web dédié au produit
 
 ![TPM_MagicFreeze_presentation](https://github.com/user-attachments/assets/cf206078-aed0-4f08-b0dd-7d66698d28db)
+
 
 ### Boutique en ligne
 
@@ -33,13 +35,14 @@ Newsletters et habillage de site en fonction des saisons et des événements du 
 
 ![TasPasMieux_automne](https://github.com/user-attachments/assets/96685956-385f-4e81-92ff-1940d64d9f3a)
 
+
 ### Crêpière Durandal
 
 Packaging de produit
 
-https://www.passat-shop.fr/poeles-casseroles-et-crepieres/113-poele-crepes-granite-rouge-26-cm.html
-
 ![Passat_crepiere03](https://github.com/user-attachments/assets/d1c9536a-0a60-465a-84de-784a170ee225)
+
+https://www.passat-shop.fr/poeles-casseroles-et-crepieres/113-poele-crepes-granite-rouge-26-cm.html
 
 
 
