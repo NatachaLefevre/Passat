@@ -1,6 +1,6 @@
 # Passat
 
-Communication visuelle pour entreprise leader européenne de vente assistée par l'image.
+Communication visuelle pour une entreprise leader européenne de vente assistée par l'image.
 
 ## Contexte
 Passat SA (anciennement Passat Groupe) est une société spécialisée dans la vente de produits domestiques et de publicités vidéo sur lieux de vente.
